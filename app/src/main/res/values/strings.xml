@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EncryptSharedPreference</string>
+    <string name="decrypt_and_restore">Decrypt and Restore</string>
+    <string name="encrypt_and_store">Encrpt and Store</string>
+    <string name="enter_data_to_be_encrypted_here">Enter Data to Encrypt</string>
+</resources>
